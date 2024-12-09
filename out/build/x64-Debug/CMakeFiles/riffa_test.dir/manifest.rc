@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "D:/FPGAPrj/git/testPrj/RIFFA_Project/out/build/x64-Debug/CMakeFiles/riffa_test.dir/embed.manifest"

@@ -1,0 +1,4 @@
+# ninja log v5
+0	8	0	clean	9992afb1f91dc381
+0	803	7545688748244042	CMakeFiles/riffa_test.dir/src/main.cpp.obj	165af2d4a11eea53
+804	1364	7545688752196965	bin/riffa_test.exe	792b42161665642e
